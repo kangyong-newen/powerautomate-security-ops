@@ -6,7 +6,8 @@ Power Automate 기반 Palo Alto TAC 운영 자동화 프로젝트
 
 ### Palo Alto TAC Thread LAB
 
-실시간 TAC 메일 처리
+실시간 TAC Case 메일 처리
+![mail](./docs/mail.png)
 
 기능
 
@@ -20,9 +21,10 @@ Power Automate 기반 Palo Alto TAC 운영 자동화 프로젝트
 
 ### Palo Alto TAC Weekly Summary
 
-매주 금요일 10:00 KST
+매주 금요일 13:00 KST
 
 Slack 주간 리포트
+![open-report](./docs/open-report.png)
 
 포함 내용
 
@@ -36,7 +38,10 @@ Slack 주간 리포트
 
 ### Palo Alto TAC Weekly Cleanup
 
-매주 금요일 11:00 KST
+매주 금요일 18:00 KST
+
+Slack 주간 리포트
+![cleanup-report](./docs/cleanup-report.png)
 
 기능
 
